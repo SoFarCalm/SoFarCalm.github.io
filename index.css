@@ -1,3 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
-  background-color: #003399;
+  background-color: #00334d;
+}
+
+#pullup {
+   background-color: #FFD700;
+   border-radius: 8px 8px 0 0;
+   color: black;
+   font-size: 40px;
+   margin-top: 50px;
+}
+
+#bio {
+  color: white;
+  font-size: 20px;
+  margin-top: 5px;
 }
